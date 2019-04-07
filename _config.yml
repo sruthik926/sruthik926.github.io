@@ -1,11 +1,11 @@
 # Site settings
 author: Sruthi Krishna
-title: 
+title: Tech 
 header-img: img/home-bg.png
 email: sruthik926@gmail.com
 copyright_name: Sruthi Krishna
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Javascript vs Ruby
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sruthik926
