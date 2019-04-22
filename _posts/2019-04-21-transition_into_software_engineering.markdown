@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Transition Into Software Engineering"
+date:       2019-04-22 00:28:56 +0000
+permalink:  transition_into_software_engineering
+---
+
+As a school going child, my interests were primarly in the arts and languages.  I pursued my undergrad degree in Sociology at New York University.  However, I  have always enjoyed working on logical puzzles.  I have also always dreamt of being an inventor of some sort. and making a positive impact on the world. Some of those who inspired me are Steve Jobs, Mark Zuckerberg, Bill Gates and Jeff Bezos and Larry Page. All these have changed the world of technology and have had a very positive impact on our lives. Social media apps such as Facebook, have allowed many to bring back old memories by reconnect with old friends. Search engines such as Google and Yahoo are so powerful. My dad comes from a programming background as well.  He told me stories of how he would struggle to get solutions to problems. Back in the day, he would go to a libary to pick up books on programming. Now, websites like Stack OverFlow give us instant answers to our questions. That's the greatness of search engines. Though these have been around for a while now, I recently realized how powerful technology has become. It's not so much about becoming famous. I think more than that, I would like to have or achieve the same kind of impact one day. 
+
+I also worked as a data analyst for the past 6 years. A majority of the work involved using excel spreadsheets. Some advanced excel functions(such as Vlookup and Fuzzy Logic) were used to increase the efficiency of the tasks. However, I wondered if there was a way to automate these tasks. This curiousity led me to pursue programming. 
+
+I know that a major part of software engineering is problem solving. I was looking for something challenging as well. The problem solving aspect is what makes programming so enjoyable. I have already acquired so much knowledge about programming over the last 12 weeks at Flatiron. One of my goals was to builld a web app for my mom who is a professional singer.  I wanted to mainly help her as well her students to keep track of vocal lessons. I was able to achieve this goal over the last few weeks.  I happily built this app using Ruby on Rails. Building this app gave me so much satiisfaction. Every aspect of it, from adding images, building different features, ie (search feature) to debugging errors. I kept adding features as I built the app. I will be expanding on this project within the next few months as well. I learned so much during the process including concepts such as OmniAuthentication. I think this is a neat feature for any app. My web app allows users to login through Facebook.  I understand that it can be difficult to remember login credentials for multiple apps. Omniauthentication makes it easier for users to login to an application through other apps such as Facebook, Google and GitHub. I also loved building the search feature for my web app. My search feature allows students and instructors to filter out appointments/lessons for a particular day. I thought it would be useful for students and instructors to look at upcoming or future lessons. This may come in handy in case there is a date clash with another appointment or another event.  I am so thrilled about starting my developer journey at Flatiron. 
+
+I look forward to expanding my knowledge on programming and building more apps in the future.!
+
+
+
