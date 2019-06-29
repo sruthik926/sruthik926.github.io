@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scope & Hoisting"
-date:       2019-06-29 14:48:37 +0000
+date:       2019-06-29 10:48:38 -0400
 permalink:  scope_and_hoisting
 ---
 
