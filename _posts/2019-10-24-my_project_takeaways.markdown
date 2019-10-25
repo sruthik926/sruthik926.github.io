@@ -45,7 +45,7 @@ constructor(){
  }
 ```
 
-While this works, it’s also extra code and considered less elegant. I understand that this is bad practice. Arrow functions, on the other hand, solve this issue. I wouldn’t need to bind the keyword this to the parent object. Arrow functions take care of this internally. Arrow function Is an ES6/ES2015 feature and considered more elegant. I changed the regular function back to an arrow function. This time, I added a console.log(this) within my handleClick arrow function. I saw this on my console. 
+While this works, it’s also extra code and considered less elegant. I understand that this is bad practice. Arrow functions, on the other hand, solve this issue. I wouldn’t need to bind the keyword this to the parent object. Arrow functions take care of this internally. Arrow function is an ES6/ES2015 feature and considered more elegant. I changed the regular function back to an arrow function. This time, I added a console.log(this) within my handleClick arrow function. I saw this on my console. 
 
 `this CompareCard {props: {…}, context: {…}, refs: {…}, updater: {…}, handleClick: ƒ, …}`
 
