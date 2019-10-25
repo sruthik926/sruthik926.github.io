@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Project Takeaways"
-date:       2019-10-25 02:34:52 +0000
+title:      "My React Project Takeaways"
+date:       2019-10-24 22:34:52 -0400
 permalink:  my_project_takeaways
 ---
 
@@ -50,6 +50,16 @@ While this works, it’s also extra code and considered less elegant. I understa
 `this CompareCard {props: {…}, context: {…}, refs: {…}, updater: {…}, handleClick: ƒ, …}`
 
 The keyword this, points to the parent object which is the CompareCard component. 
+
+
+Sources Used:
+
+https://tylermcginnis.com/arrow-functions/
+https://stackoverflow.com/questions/22939130/when-should-i-use-arrow-functions-in-ecmascript-6/28135120
+https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881/
+https://alligator.io/react/constructors-with-react-components/
+https://stackoverflow.com/questions/52862027/onclick-action-not-triggered-using-regular-function-in-react
+
 
 
 
